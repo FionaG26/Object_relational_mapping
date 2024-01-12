@@ -1,0 +1,5 @@
+# requirements.txt
+
+pandas==2.1.4
+SQLAlchemy==2.0.25
+mysql-connector-python==8.2.0
