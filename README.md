@@ -57,9 +57,7 @@ Now, your Personal Library Database Management System is set up and ready to use
 
 ## Contributors
 
-- [Your Name]
-- [Contributor 1]
-- [Contributor 2]
+- [Fiona Githaiga]
 
 Feel free to contribute to the project and make it even better!
 
